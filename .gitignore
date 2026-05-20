@@ -2,8 +2,7 @@ venv/
 __pycache__/
 *.pyc
 
-model.pkl
-poly.pkl
+
 
 .DS_Store
 .streamlit/
